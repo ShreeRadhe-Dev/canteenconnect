@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://canteenconnect-shreeradhe.netlify.app/sitemap.xml
